@@ -12,11 +12,10 @@ https://github.com/nadunmA/IT3040_ITPM_Assignment_01.git
 
 ## Note on Script Adaptation
 
-The original script was designed for https://www.pixelssuite.com/chat-translator.
-However, during testing this site was frequently unavailable (connection errors
-and fetch failures). Therefore, https://tmrtools.com/ was used as an
-alternative URL which provides equivalent Chat Sinhala transliteration
-functionality. All 50 test cases were executed successfully using this URL.
+## Note on Script Adaptation
+
+The script was designed and executed using the official Chat Sinhala transliteration application:
+https://www.pixelssuite.com/chat-translator.
 
 ## Project Structure
 
